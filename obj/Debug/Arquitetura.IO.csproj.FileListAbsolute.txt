@@ -1,0 +1,7 @@
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\bin\Debug\Arquitetura.IO.exe.config
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\bin\Debug\Arquitetura.IO.exe
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\bin\Debug\Arquitetura.IO.pdb
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\obj\Debug\Arquitetura.IO.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\obj\Debug\Arquitetura.IO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\obj\Debug\Arquitetura.IO.exe
+C:\Users\guilh\Desktop\VB\C# e Scratch\Curso ASP NET Core MVC\Arquitetura.IO\obj\Debug\Arquitetura.IO.pdb
